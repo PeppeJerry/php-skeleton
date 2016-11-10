@@ -64,6 +64,17 @@
 	background: rgba(255, 255, 255, 0.4);
 }
 
+.SemiBadContainer{
+	padding:10px;
+	margin:10px;
+	width:400px;
+	background: rgba(255, 255, 255, 0.4);
+}
+
+	#ManImage{
+	width:250px;
+}
+
 .BadContainerB{
 	padding:10px;
 	margin:10px;
@@ -83,7 +94,7 @@
 }
 
 .BadContainer h1:hover{
-	color:green;
+	color:blue;
 }
 
 .ErrorLogo{
