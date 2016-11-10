@@ -1,0 +1,6 @@
+In via del fatto che non conosco il php ho creato le pagine come singole pagine in html per facilitarmi il compito.
+Ho prontalmente diviso le pagine in 3 parti con tag di commenti per facilitare la divisione dei singoli pezzi
+del codice.
+Spero che il sito rispecchi la richiesta di venerdì scorso.
+Cordiali Saluti
+-Giuseppe Murgolo
