@@ -1,5 +1,91 @@
-/* Example */
-#not {
-  display: none;
+@media screen and (max-width:430px){
+#TextLogo{
+	width:100px;
+	height:100px;
 }
-/***********/
+.BadContainer h1{
+	font-size:40px;
+}
+}
+
+@media screen and (min-width:431px){
+#TextLogo{
+	width:50px;
+	height:50px;
+}
+}
+
+#Ap1{
+	width:80%;
+	height:30px;
+	margin-bottom:10px;
+	font-size:12px;
+	text-align:center;
+}
+#Ap2{
+	width:40%;
+	height:40px;
+	background-color:black;
+	color:white;
+	font-size:15px;
+}
+
+#Link{
+	text-decoration:none;
+	color:black;
+}
+
+#Ap2:hover{
+	background-color:white;
+	color:black;
+}
+#Nonsochenome{
+	color:#3333ff;
+	text-align:center;
+}
+
+#Nonsochenome span{
+	color:black;
+}
+.Center{
+	
+	padding-left:10%;
+	text-align:center;
+	padding-right:10%;
+}
+
+.CenterB{
+	text-align:center;
+}
+
+.BadContainer{
+	padding:10px;
+	margin:10px;
+	opacity:0.6;
+	background:white;
+}
+
+.BadContainerB{
+	padding:10px;
+	margin:10px;
+	opacity:0.6;
+	background:white;
+	width:200px;
+}
+
+.Bidone{
+	width:180px;
+	height:270px;
+}
+
+.BadContainer h1:hover{
+	color:green;
+}
+
+body{
+	background: url("../images/Schifo.jpg") no-repeat center center fixed;
+	background-size:cover;
+	width:*;
+	height:*;
+	cursor:default;
+}
