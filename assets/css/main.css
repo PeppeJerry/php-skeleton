@@ -61,15 +61,13 @@
 .BadContainer{
 	padding:10px;
 	margin:10px;
-	opacity:0.6;
-	background:white;
+	background: rgba(255, 255, 255, 0.5);
 }
 
 .BadContainerB{
 	padding:10px;
 	margin:10px;
-	opacity:0.6;
-	background:white;
+	background: rgba(255, 255, 255, 0.5);
 	width:200px;
 }
 
